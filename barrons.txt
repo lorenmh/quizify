@@ -1,6 +1,6 @@
 abate
 abeyance
-abjure
+abjure,solemnly renounce
 abscission,the natural detachment of parts of a plant
 abscond
 accretion
@@ -11,12 +11,12 @@ aggrandize
 allay
 amalgamate
 ambivalence
-ameliorate
+ameliorate,make (something bad) better
 amenable
 amenity
 anodyne
-apothegm
-appease
+apothegm,an aphorism
+appease,pacify or placate by acceding to a person's demands
 appellation
 apposite
 apprise
@@ -30,12 +30,12 @@ assiduous
 assuage
 astringent
 atavism
-attenuate
-aver
-avocation
+attenuate,reduce the force / effect / value of
+aver,state or assert to be the case
+avocation,a hobby or minor occupation
 avuncular
 axiomatic
-bacchanalian
+bacchanalian,characterized by or given to drunken revelry; riotously drunken
 bawdy
 beatify
 bedizen
@@ -45,9 +45,9 @@ blandishment,flatter or pleasing statement or action used to persuade someone to
 blasé
 bombastic
 boorish
-burgeon
+burgeon,begin to grow or increase rapidly; flourish
 burnish
-cacophonous 
+cacophonous ,involving or producing a harsh mixture of sounds
 cadge
 calumny
 canard
@@ -58,7 +58,7 @@ captious
 cardinal
 carping,difficult to please
 castigation
-cataclysm
+cataclysm,large scale and violent event in nature. (social) sudden violent upheaval
 categorical
 caucus
 centrifugal
@@ -81,9 +81,9 @@ cozen
 craven
 daunt
 dearth
-deference
+deference,humble submission and respect
 defunct
-delineate
+delineate,describe / portray precisely. indicate exact position (of border / boundary)
 demotic
 demur
 denigrate
@@ -102,8 +102,23 @@ disjointed
 dissemble
 dissolution,the closing of an assembly. debauched living / dissipation
 distrait
-divest
+divest,deprive someone of power, rights, or possessions
 doctrinaire
 dross
 ebullient
 effervescent,giving off bubbles. vivacious and enthusiastic
+Elysian
+emollient
+encomium
+enervate
+effrontery
+epistemology
+equable
+equanimity
+equivocate
+ethnocentric
+etiology
+evince
+execrable
+exhort
+exigency

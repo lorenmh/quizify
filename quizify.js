@@ -4,7 +4,7 @@ var exec = require('child_process').exec,
     fs = require('fs')
 ;
 
-var PATH = './input.txt'
+var PATH = './barrons.txt'
 ;
 
 var numLines = new Promise((res, rej) => {
@@ -65,10 +65,10 @@ read.then((file) => {
   var stdin;
   
   console.log(`The word is: ${def[0]}`);
+  stdin = process.openStdin();
 
   if (!def[1]) {
     console.log('Definition not set, enter definition:');
-    stdin = process.openStdin();
     var newDef = '';
     stdin.addListener('data', (d) => {
       newDef += d;
