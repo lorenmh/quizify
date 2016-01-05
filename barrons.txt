@@ -18,18 +18,18 @@ anodyne
 apothegm,an aphorism
 appease,pacify or placate by acceding to a person's demands
 appellation
-apposite
+apposite,apt (or fitting) in the circumstances or in relation to something. 'an apposite remark' ie, a fitting remark
 apprise
 apropos
 arabesque
-argot
+argot,the jargon or slang of a particular group / class
 ascetic,characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence
 asperity
 aspersion
 assiduous
 assuage
 astringent
-atavism
+atavism,relating to or characterized by reversion to something ancient or ancestral
 attenuate,reduce the force / effect / value of
 aver,state or assert to be the case
 avocation,a hobby or minor occupation
@@ -38,7 +38,7 @@ axiomatic
 bacchanalian,characterized by or given to drunken revelry; riotously drunken
 bawdy
 beatify
-bedizen
+bedizen,to dress up or decorate gaudily (bedizened for adjective)
 belie
 beneficent
 blandishment,flatter or pleasing statement or action used to persuade someone to gently do something
@@ -49,7 +49,7 @@ burgeon,begin to grow or increase rapidly; flourish
 burnish
 cacophonous ,involving or producing a harsh mixture of sounds
 cadge
-calumny
+calumny,the making of false and defamatory statements in order to damage someone's reputation; slander
 canard
 canon
 cant
@@ -68,7 +68,7 @@ churlish
 circuitous
 clairvoyant
 coalesce
-compendium
+compendium,a collection of concise but detailed information about a particular subject, especially in a book or other publication.
 compunction
 conciliatory
 congenial
@@ -139,7 +139,7 @@ foment
 forbearance
 forswear
 founder
-fractious
+fractious,difficult to control, unruly, quarrelsome
 frieze
 froward
 fulminate
