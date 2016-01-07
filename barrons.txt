@@ -4,10 +4,10 @@ abjure,solemnly renounce
 abscission,the natural detachment of parts of a plant
 abscond
 accretion
-accrue
+accrue,increase by small amounts (usually money)
 adjunct
 affected
-aggrandize
+aggrandize,increase the power, status, or wealth of
 allay
 amalgamate
 ambivalence
@@ -20,8 +20,8 @@ appease,pacify or placate by acceding to a person's demands
 appellation
 apposite,apt (or fitting) in the circumstances or in relation to something. 'an apposite remark' ie, a fitting remark
 apprise
-apropos
-arabesque
+apropos,[adj] very appropriate to the situation. [prep] with reference to / concerning. [adv] used to state a speakers belief that someone's comments / acts are unrelated to any previous discussion or situation
+arabesque,ornamental design. ballet posture (one legged stand, one leg back, lean forward)
 argot,the jargon or slang of a particular group / class
 ascetic,characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence
 asperity
@@ -46,13 +46,13 @@ blasé
 bombastic
 boorish
 burgeon,begin to grow or increase rapidly; flourish
-burnish
+burnish,polish something by rubbing. enhance or perfect (reputation, skill)
 cacophonous ,involving or producing a harsh mixture of sounds
-cadge
+cadge,ask for or obtain (something to which one is not strictly entitled)
 calumny,the making of false and defamatory statements in order to damage someone's reputation; slander
 canard
 canon
-cant
+cant,hypocritical and sanctimonious talk, typically of a moral, religious, or political nature
 cantankerous
 captious
 cardinal
@@ -63,7 +63,7 @@ categorical
 caucus
 centrifugal
 centripetal
-chicanery
+chicanery,the use of trickery to acheive political, financial, legal purpose
 churlish
 circuitous
 clairvoyant
@@ -73,12 +73,12 @@ compunction
 conciliatory
 congenial
 consecrate
-continence
+continence,able to control movements of bowel / bladder. exercising self-restraint, esp. sexually
 contrite,feeling or expressing remorse or penitence
 contumacious
 convivial
-cozen
-craven
+cozen,trick or deceive
+craven,contemptibly lacking in courage; cowardly
 daunt
 dearth
 deference,humble submission and respect
@@ -88,8 +88,8 @@ demotic
 demur
 denigrate
 denizen
-desiccate
-desuetude
+desiccate,remove the moisture from (esp. food), typ. to preserve it. lacking interest, passion, or energy
+desuetude,a state of disuse
 desultory
 detraction
 diffidence
@@ -101,14 +101,14 @@ disinterested
 disjointed
 dissemble
 dissolution,the closing of an assembly. debauched living / dissipation
-distrait
+distrait,distracted or absentminded
 divest,deprive someone of power, rights, or possessions
 doctrinaire
 dross
 ebullient
 effervescent,giving off bubbles. vivacious and enthusiastic
 Elysian
-emollient
+emollient,having the quality of softening or soothing the skin; attempting to avoid conconfrontation or anger, soothing or calming
 encomium
 enervate
 effrontery
@@ -119,14 +119,14 @@ equivocate
 ethnocentric
 etiology
 evince
-execrable
+execrable,extremely bad or unpleasant
 exhort
 exigency
 expiate
 explicate
 expository
 extemporaneous
-factotum
+factotum,an employee who does all kinds of work
 fallow
 fatuous
 felicitous 
@@ -139,8 +139,56 @@ foment
 forbearance
 forswear
 founder
+fracas
 fractious,difficult to control, unruly, quarrelsome
-frieze
+frieze,a broad horizontal band of sculted or painted decoration, esp. on a wall or near the ceiling
 froward
 fulminate
-fulsome
+fulsome,complimentary or flattering to an excessive degree
+gainsay
+gambol
+garrulous
+gauche,lacking ease or grace; unsophisticated and socially awkward
+geniality
+gerrymander
+gossamer
+grouse
+gustatory,concerned with tasting or the sense of taste
+halcyon
+harangue,lengthy agressive speech, [v] to lecture at length aggrisively / critically
+hermetic
+heterodox
+histrionic,overly theatrical or melodramatic in character or style. of or concerning actors / acting
+homily
+iconoclastic
+igneous
+imbroglio,an extremely confused, complicated, or embarrassing situation
+impassive,not feeling or showing emotion
+impecunious,having little or no money
+impinge
+impute
+inchoate
+incursion
+indigence
+ineluctable
+ingenuous
+insouciant
+intangible
+interdict
+internecine
+interregnum
+intransigence
+inured
+invective
+inveigh
+inveigle
+invidious
+irascible
+irresolute
+itinerant
+jaundiced,affected by jaundice. affected by bitterness, resentment, envy.
+jibe
+jocose,playful or humorous
+junta
+kudos
+labile
