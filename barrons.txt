@@ -1,8 +1,8 @@
 abate
-abeyance
+abeyance,a state of temporary disuse or suspension
 abjure,solemnly renounce
 abscission,the natural detachment of parts of a plant
-abscond
+abscond,leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action
 accretion
 accrue,increase by small amounts (usually money)
 adjunct
@@ -36,7 +36,7 @@ avocation,a hobby or minor occupation
 avuncular
 axiomatic
 bacchanalian,characterized by or given to drunken revelry; riotously drunken
-bawdy
+bawdy,dealing with sexual matters in a comical way; humorously indecent
 beatify
 bedizen,to dress up or decorate gaudily (bedizened for adjective)
 belie
@@ -51,7 +51,7 @@ cacophonous ,involving or producing a harsh mixture of sounds
 cadge,ask for or obtain (something to which one is not strictly entitled)
 calumny,the making of false and defamatory statements in order to damage someone's reputation; slander
 canard
-canon
+canon,a general law, rule, principle, etc., by which something is judged. a collectioon or list of sacrad books accepted as genuine
 cant,hypocritical and sanctimonious talk, typically of a moral, religious, or political nature
 cantankerous
 captious
@@ -59,7 +59,7 @@ cardinal
 carping,difficult to please
 castigation
 cataclysm,large scale and violent event in nature. (social) sudden violent upheaval
-categorical
+categorical,unambiguously explicit and direct
 caucus
 centrifugal
 centripetal
@@ -70,7 +70,7 @@ clairvoyant
 coalesce
 compendium,a collection of concise but detailed information about a particular subject, especially in a book or other publication.
 compunction
-conciliatory
+conciliatory,intended or likely to placate or pacify
 congenial
 consecrate
 continence,able to control movements of bowel / bladder. exercising self-restraint, esp. sexually
@@ -79,19 +79,19 @@ contumacious
 convivial
 cozen,trick or deceive
 craven,contemptibly lacking in courage; cowardly
-daunt
+daunt,make (someone) feel intimidated or apprehensive
 dearth
 deference,humble submission and respect
 defunct
 delineate,describe / portray precisely. indicate exact position (of border / boundary)
-demotic
+demotic,denoting or relative to the kind of language used by ordinary people; popular or colloquial
 demur
 denigrate
 denizen
 desiccate,remove the moisture from (esp. food), typ. to preserve it. lacking interest, passion, or energy
 desuetude,a state of disuse
 desultory
-detraction
+detraction,reduce or take away the worth or value of
 diffidence
 dirge
 disabuse
@@ -105,14 +105,14 @@ distrait,distracted or absentminded
 divest,deprive someone of power, rights, or possessions
 doctrinaire
 dross
-ebullient
+ebullient,cheerful and full of energy
 effervescent,giving off bubbles. vivacious and enthusiastic
 Elysian
 emollient,having the quality of softening or soothing the skin; attempting to avoid conconfrontation or anger, soothing or calming
 encomium
 enervate
 effrontery
-epistemology
+epistemology,the theory of knowledge
 equable
 equanimity
 equivocate
@@ -149,12 +149,12 @@ gainsay
 gambol
 garrulous
 gauche,lacking ease or grace; unsophisticated and socially awkward
-geniality
+geniality,the quality of having a friendly and cheerful manner
 gerrymander
 gossamer
 grouse
 gustatory,concerned with tasting or the sense of taste
-halcyon
+halcyon,denoting a period of time in the past that was idyllically happy and peaceful
 harangue,lengthy agressive speech, [v] to lecture at length aggrisively / critically
 hermetic
 heterodox
@@ -166,23 +166,23 @@ imbroglio,an extremely confused, complicated, or embarrassing situation
 impassive,not feeling or showing emotion
 impecunious,having little or no money
 impinge
-impute
+impute,represent as being done, casued, or possessed by someone ('the crimes imputed to Richard...')
 inchoate
 incursion
-indigence
-ineluctable
+indigence,a state of extreme poverty
+ineluctable,unable to be resisted or avoided; inescapable
 ingenuous
 insouciant
 intangible
-interdict
+interdict,an authoritative prohibition
 internecine
 interregnum
-intransigence
+intransigence,unwilling or refusing to change one's view or to agree about something
 inured
 invective
 inveigh
 inveigle
-invidious
+invidious,likely to arouse or incur resentment or anger in others. unfairly discriminating / unjust
 irascible
 irresolute
 itinerant
@@ -193,7 +193,7 @@ junta
 kudos
 labile
 lambaste
-lascivious
+lascivious,feeling or revealing an overt and often offensive sexual desire
 lassitude
 levee
 levity
@@ -204,12 +204,54 @@ litany
 lucre
 machinations
 maelstrom
-magnanimity
+magnanimity,the condition of being very generous or forgiving, esp. toward a rival or someone less power
 malign
 malinger
 menagerie
 mendacious
-meretricious
+meretricious,apparently attractive but having in reality no value or integrity (from latin 'meretrix, meaning prostitute)
 mettlesome
 militate
 minatory
+multifarious,many and of various types; having many varied parts or aspects
+mundane
+necromancy,witchcraft, sorcery, black magic
+neologism
+nexus
+nonplussed
+nostrum
+nugatory
+obdurate,stubbornly refusing to change one's opinion or course of action
+obsequious
+obsequy
+officious
+opprobrium
+ostentatious
+overweening,showing excessive confidence or pride
+paean
+panegyric
+partisan
+pathological
+patois
+paucity
+pellucid
+penury,extreme poverty; destitution
+peregrination
+peremptory
+perfidious
+perfunctory
+petulant
+pique,a feeling of irritation or resentment resulting from a slight. [with obj] stimulate interest or curiosity
+placate,make (someone) less angry or hostile
+platitude
+platitude
+plutocracy,government by the wealthy
+precept
+precipitate
+precursor
+preempt
+prehensile
+preternatural
+prevaricate
+probity
+prodigal
