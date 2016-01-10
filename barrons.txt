@@ -33,13 +33,13 @@ atavism,relating to or characterized by reversion to something ancient or ancest
 attenuate,reduce the force / effect / value of
 aver,state or assert to be the case
 avocation,a hobby or minor occupation
-avuncular
+avuncular,of or relating to an uncle; kind and friendly toward a younger or less experienced person
 axiomatic
 bacchanalian,characterized by or given to drunken revelry; riotously drunken
 bawdy,dealing with sexual matters in a comical way; humorously indecent
 beatify
 bedizen,to dress up or decorate gaudily (bedizened for adjective)
-belie
+belie,fail to give a true notion or impression of; disguise or contradict
 beneficent
 blandishment,flatter or pleasing statement or action used to persuade someone to gently do something
 blasé
@@ -65,8 +65,8 @@ centrifugal
 centripetal
 chicanery,the use of trickery to acheive political, financial, legal purpose
 churlish
-circuitous
-clairvoyant
+circuitous,longer than the most direct way
+clairvoyant,supernatural ability to perceive events in the future
 coalesce
 compendium,a collection of concise but detailed information about a particular subject, especially in a book or other publication.
 compunction
@@ -80,17 +80,17 @@ convivial
 cozen,trick or deceive
 craven,contemptibly lacking in courage; cowardly
 daunt,make (someone) feel intimidated or apprehensive
-dearth
+dearth,scarcity or lack of something
 deference,humble submission and respect
 defunct
 delineate,describe / portray precisely. indicate exact position (of border / boundary)
 demotic,denoting or relative to the kind of language used by ordinary people; popular or colloquial
 demur
-denigrate
+denigrate,criticize unfairly, disparage
 denizen
 desiccate,remove the moisture from (esp. food), typ. to preserve it. lacking interest, passion, or energy
 desuetude,a state of disuse
-desultory
+desultory,lacking a plan, purpose, or enthusiasm. of conversation, going from one subject to another in halfhearted way. occuring randomly or occasionally
 detraction,reduce or take away the worth or value of
 diffidence
 dirge
@@ -116,28 +116,28 @@ epistemology,the theory of knowledge
 equable
 equanimity
 equivocate
-ethnocentric
+ethnocentric,evaluating othe rpeoples and cultures according to the standards of one's own culture
 etiology
 evince
 execrable,extremely bad or unpleasant
-exhort
+exhort,strongly encourage or urge someone to do something
 exigency
-expiate
+expiate,atone for (guilt or sin)
 explicate
 expository
 extemporaneous
 factotum,an employee who does all kinds of work
 fallow
 fatuous
-felicitous 
+felicitous ,well chosen or suited to the circumstances
 fetid
 fetid
 flag
 florid
 flout
 foment
-forbearance
-forswear
+forbearance,patient self-control; restraint and tolerance
+forswear,agree to give up or do without something
 founder
 fracas
 fractious,difficult to control, unruly, quarrelsome
@@ -147,12 +147,12 @@ fulminate
 fulsome,complimentary or flattering to an excessive degree
 gainsay
 gambol
-garrulous
+garrulous,excessively talkative, esp. on trivial matters
 gauche,lacking ease or grace; unsophisticated and socially awkward
 geniality,the quality of having a friendly and cheerful manner
 gerrymander
 gossamer
-grouse
+grouse,very good. (other meaning): complain pettily
 gustatory,concerned with tasting or the sense of taste
 halcyon,denoting a period of time in the past that was idyllically happy and peaceful
 harangue,lengthy agressive speech, [v] to lecture at length aggrisively / critically
@@ -171,9 +171,9 @@ inchoate
 incursion
 indigence,a state of extreme poverty
 ineluctable,unable to be resisted or avoided; inescapable
-ingenuous
+ingenuous,innocent and unsuspecting
 insouciant
-intangible
+intangible,unable to be touched or grasped; not having physical presence
 interdict,an authoritative prohibition
 internecine
 interregnum
@@ -181,7 +181,7 @@ intransigence,unwilling or refusing to change one's view or to agree about somet
 inured
 invective
 inveigh
-inveigle
+inveigle,persuade (someone) to do something by means of deception or flattery
 invidious,likely to arouse or incur resentment or anger in others. unfairly discriminating / unjust
 irascible
 irresolute
@@ -196,25 +196,25 @@ lambaste
 lascivious,feeling or revealing an overt and often offensive sexual desire
 lassitude
 levee
-levity
+levity,humor or frivolity, esp. with the treatment of a serious matter / lacking due respect
 Lilliputian
-limn
+limn,depict or describe in painting or words
 limpid
 litany
 lucre
-machinations
+machinations,engage in plots and intrigues, scheme.
 maelstrom
 magnanimity,the condition of being very generous or forgiving, esp. toward a rival or someone less power
 malign
 malinger
 menagerie
-mendacious
+mendacious,not telling the truth; lying
 meretricious,apparently attractive but having in reality no value or integrity (from latin 'meretrix, meaning prostitute)
 mettlesome
 militate
 minatory
 multifarious,many and of various types; having many varied parts or aspects
-mundane
+mundane,lacking interest or excitement, dull. of this earthly world rather than heavenly or spiritual one
 necromancy,witchcraft, sorcery, black magic
 neologism
 nexus
@@ -224,11 +224,11 @@ nugatory
 obdurate,stubbornly refusing to change one's opinion or course of action
 obsequious
 obsequy
-officious
+officious,assertive of authority in an annoyingly domineering way, esp. for trivial matters. intrusively enthusiastic in offering help or advice; interfering
 opprobrium
 ostentatious
 overweening,showing excessive confidence or pride
-paean
+paean,a song of praise or triumph
 panegyric
 partisan
 pathological
@@ -237,10 +237,10 @@ paucity
 pellucid
 penury,extreme poverty; destitution
 peregrination
-peremptory
+peremptory,insiting on immediate attention or obedience, esp. in a brusquely imperious way
 perfidious
 perfunctory
-petulant
+petulant,childishly sulky or bad-tempered
 pique,a feeling of irritation or resentment resulting from a slight. [with obj] stimulate interest or curiosity
 placate,make (someone) less angry or hostile
 platitude
@@ -251,7 +251,7 @@ precipitate
 precursor
 preempt
 prehensile
-preternatural
+preternatural,beyond what is normal or natural
 prevaricate
 probity
 prodigal
