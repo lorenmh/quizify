@@ -141,7 +141,7 @@ forswear,agree to give up or do without something
 founder
 fracas
 fractious,difficult to control, unruly, quarrelsome
-frieze,a broad horizontal band of sculted or painted decoration, esp. on a wall or near the ceiling
+frieze,a broad horizontal band of sculpted or painted decoration, esp. on a wall or near the ceiling
 froward
 fulminate
 fulsome,complimentary or flattering to an excessive degree
@@ -166,7 +166,7 @@ imbroglio,an extremely confused, complicated, or embarrassing situation
 impassive,not feeling or showing emotion
 impecunious,having little or no money
 impinge
-impute,represent as being done, casued, or possessed by someone ('the crimes imputed to Richard...')
+impute,represent as being done, caused, or possessed by someone ('the crimes imputed to Richard...')
 inchoate
 incursion
 indigence,a state of extreme poverty
@@ -209,7 +209,7 @@ malign
 malinger
 menagerie
 mendacious,not telling the truth; lying
-meretricious,apparently attractive but having in reality no value or integrity (from latin 'meretrix, meaning prostitute)
+meretricious,apparently attractive but having in reality no value or integrity (from latin 'meretrix', meaning prostitute)
 mettlesome
 militate
 minatory
