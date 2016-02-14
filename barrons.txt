@@ -230,7 +230,7 @@ ostentatious
 overweening,showing excessive confidence or pride
 paean,a song of praise or triumph
 panegyric
-partisan
+partisan,a strong supporter of a party, cause, or person
 pathological
 patois
 paucity
