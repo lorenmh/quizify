@@ -1,7 +1,16 @@
 #!/bin/bash
 cd "${0%/*}"
 
+# if arg1 is not empty string
 if [ ! -z "$1" ]
 then
-  echo "$1" >> words.txt
+  # exists = grep words for arg1
+  exists=$(grep ^$1\\b words.txt)
+
+  # if exists is empty string (ie, it wasn't found in words.txt)
+  if [ -z "$exists" ]
+  then
+    # append arg1 to words.txt
+    echo "$1" >> words.txt
+  fi
 fi
