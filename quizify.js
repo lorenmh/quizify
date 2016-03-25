@@ -4,7 +4,7 @@ var exec = require('child_process').exec,
     fs = require('fs')
 ;
 
-var PATH = './barrons.txt'
+var PATH = './words.txt'
 ;
 
 var numLines = new Promise((res, rej) => {
