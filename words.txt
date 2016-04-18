@@ -1,23 +1,23 @@
-abate
+abate,(of something negative) become less intense or widespread. cause to become smaller or less intense
 abeyance,a state of temporary disuse or suspension
 abjure,solemnly renounce
 abscission,the natural detachment of parts of a plant
 abscond,leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action
-accretion
+accretion,the process of growth or increase, typ. by gradual accumlation of layers or matter. a thing formed by gradual growth or increase
 accrue,increase by small amounts (usually money)
 adjunct
-affected
+affected,influenced or touched by an external factor. artificial, pretentious, designed to impress
 aggrandize,increase the power, status, or wealth of
 allay
 amalgamate
-ambivalence
+ambivalence,the state of having mixed feelings or contradictory ideas about something or someone
 ameliorate,make (something bad) better
 amenable
 amenity
-anodyne
+anodyne,not likely to provoke dissent or offense; inoffensive, often deliberately so. (noun) a painkilling drug or medicine
 apothegm,an aphorism
 appease,pacify or placate by acceding to a person's demands
-appellation
+appellation,a name or title. the action of giving a name to a person or thing
 apposite,apt (or fitting) in the circumstances or in relation to something. 'an apposite remark' ie, a fitting remark
 apprise
 apropos,[adj] very appropriate to the situation. [prep] with reference to / concerning. [adv] used to state a speakers belief that someone's comments / acts are unrelated to any previous discussion or situation
@@ -42,8 +42,8 @@ bedizen,to dress up or decorate gaudily (bedizened for adjective)
 belie,fail to give a true notion or impression of; disguise or contradict
 beneficent
 blandishment,flatter or pleasing statement or action used to persuade someone to gently do something
-blasé
-bombastic
+blasé,unimpressed or indifferent to something because one has experienced or seen it so often before
+bombastic,high-sounding but with little meaning; inflated
 boorish
 burgeon,begin to grow or increase rapidly; flourish
 burnish,polish something by rubbing. enhance or perfect (reputation, skill)
@@ -55,19 +55,19 @@ canon,a general law, rule, principle, etc., by which something is judged. a coll
 cant,hypocritical and sanctimonious talk, typically of a moral, religious, or political nature
 cantankerous
 captious
-cardinal
+cardinal,a leading member of the catholic church. of the gretest importance / fundamental. (cardinality) the number of elements in a set or group
 carping,difficult to please
 castigation
 cataclysm,large scale and violent event in nature. (social) sudden violent upheaval
 categorical,unambiguously explicit and direct
-caucus
+caucus,a meeting of members of a legislative body of a particular party to select candidates or decide policy, members thereof. a group of people with shared concerns within a political party or larger org.
 centrifugal
 centripetal
 chicanery,the use of trickery to acheive political, financial, legal purpose
 churlish
 circuitous,longer than the most direct way
 clairvoyant,supernatural ability to perceive events in the future
-coalesce
+coalesce,come together and form one mass or whole
 compendium,a collection of concise but detailed information about a particular subject, especially in a book or other publication.
 compunction
 conciliatory,intended or likely to placate or pacify
@@ -76,13 +76,13 @@ consecrate
 continence,able to control movements of bowel / bladder. exercising self-restraint, esp. sexually
 contrite,feeling or expressing remorse or penitence
 contumacious
-convivial
+convivial,(of atmosphere or event) friendly, lively, enjoyable. (of person) cheerful and friendly, jovial
 cozen,trick or deceive
 craven,contemptibly lacking in courage; cowardly
 daunt,make (someone) feel intimidated or apprehensive
 dearth,scarcity or lack of something
 deference,humble submission and respect
-defunct
+defunct,no longer existing or functioning
 delineate,describe / portray precisely. indicate exact position (of border / boundary)
 demotic,denoting or relative to the kind of language used by ordinary people; popular or colloquial
 demur
@@ -92,13 +92,13 @@ desiccate,remove the moisture from (esp. food), typ. to preserve it. lacking int
 desuetude,a state of disuse
 desultory,lacking a plan, purpose, or enthusiasm. of conversation, going from one subject to another in halfhearted way. occuring randomly or occasionally
 detraction,reduce or take away the worth or value of
-diffidence
+diffidence,modesty or shyness resulting from a lack of self-confidence
 dirge
 disabuse
 discomfit
 discordant,disagreeing / incongrous. harsh lack of harminoy
-disinterested
-disjointed
+disinterested,not influenced by considerations of personal advantage. having or feeling no interest in something. impartial
+disjointed,lacking a coherent sequence or connection
 dissemble
 dissolution,the closing of an assembly. debauched living / dissipation
 distrait,distracted or absentminded
@@ -121,14 +121,14 @@ etiology
 evince
 execrable,extremely bad or unpleasant
 exhort,strongly encourage or urge someone to do something
-exigency
+exigency,an urgent need or demand. (exigant) pressing or demanding
 expiate,atone for (guilt or sin)
-explicate
-expository
-extemporaneous
+explicate,analyze and develop (an idea or principal) in detail
+expository,intended to explain or describe something formal
+extemporaneous,spoken or done without preparation
 factotum,an employee who does all kinds of work
-fallow
-fatuous
+fallow,(of farmland) plowed and harrowed by left unsown to restore fertility. (of sow) not pregnant. a pale brown or reddish yellow color
+fatuous,silly and pointless
 felicitous ,well chosen or suited to the circumstances
 fetid
 fetid
@@ -150,32 +150,32 @@ gambol
 garrulous,excessively talkative, esp. on trivial matters
 gauche,lacking ease or grace; unsophisticated and socially awkward
 geniality,the quality of having a friendly and cheerful manner
-gerrymander
+gerrymander,manipulate the boundaries of (an electoral constituency) so as to favor one party or class
 gossamer
 grouse,very good. (other meaning): complain pettily
 gustatory,concerned with tasting or the sense of taste
 halcyon,denoting a period of time in the past that was idyllically happy and peaceful
 harangue,lengthy agressive speech, [v] to lecture at length aggrisively / critically
 hermetic
-heterodox
+heterodox,not conforming with accepted or orthodox standards or beliefs
 histrionic,overly theatrical or melodramatic in character or style. of or concerning actors / acting
 homily
 iconoclastic
-igneous
+igneous,having solidified from lava or magma. relating to or involving volcanic processes. of a fire, fiery
 imbroglio,an extremely confused, complicated, or embarrassing situation
 impassive,not feeling or showing emotion
 impecunious,having little or no money
 impinge
 impute,represent as being done, caused, or possessed by someone ('the crimes imputed to Richard...')
 inchoate
-incursion
+incursion,an invasion or attack, esp. a sudden or brief one
 indigence,a state of extreme poverty
 ineluctable,unable to be resisted or avoided; inescapable
 ingenuous,innocent and unsuspecting
 insouciant
 intangible,unable to be touched or grasped; not having physical presence
 interdict,an authoritative prohibition
-internecine
+internecine,destructive to both sides in a conflict. of or relating to conflict within a group or organization
 interregnum
 intransigence,unwilling or refusing to change one's view or to agree about something
 inured
@@ -187,11 +187,11 @@ irascible
 irresolute
 itinerant
 jaundiced,affected by jaundice. affected by bitterness, resentment, envy.
-jibe
+jibe,an insulting mocking remark. (informal) be in accord with. (sailing) change course by swinging sail across a following wind
 jocose,playful or humorous
 junta
 kudos
-labile
+labile,liable to change; easily altered. (also capricious / emotionally unstable)
 lambaste
 lascivious,feeling or revealing an overt and often offensive sexual desire
 lassitude
@@ -206,7 +206,7 @@ machinations,engage in plots and intrigues, scheme.
 maelstrom
 magnanimity,the condition of being very generous or forgiving, esp. toward a rival or someone less power
 malign
-malinger
+malinger,exaggerate or feign illness in order to escape duty or work
 menagerie
 mendacious,not telling the truth; lying
 meretricious,apparently attractive but having in reality no value or integrity (from latin 'meretrix', meaning prostitute)
@@ -216,23 +216,23 @@ minatory
 multifarious,many and of various types; having many varied parts or aspects
 mundane,lacking interest or excitement, dull. of this earthly world rather than heavenly or spiritual one
 necromancy,witchcraft, sorcery, black magic
-neologism
+neologism,a newly coined word or expression
 nexus
 nonplussed
 nostrum
 nugatory
 obdurate,stubbornly refusing to change one's opinion or course of action
-obsequious
-obsequy
+obsequious,obedient or attentive to an excessive or servile degree
+obsequy,a funeral or burial right (usually plural, obsequies)
 officious,assertive of authority in an annoyingly domineering way, esp. for trivial matters. intrusively enthusiastic in offering help or advice; interfering
 opprobrium
 ostentatious
 overweening,showing excessive confidence or pride
 paean,a song of praise or triumph
 panegyric
-partisan
+partisan,a strong supporter of a party, cause, or person
 pathological
-patois
+patois,the dialect of the common people of a region. the jargon or informal speech used by a particular social group
 paucity
 pellucid
 penury,extreme poverty; destitution
@@ -243,7 +243,7 @@ perfunctory
 petulant,childishly sulky or bad-tempered
 pique,a feeling of irritation or resentment resulting from a slight. [with obj] stimulate interest or curiosity
 placate,make (someone) less angry or hostile
-platitude
+platitude,a remark or statement, esp. one with moral content, that has been used too often to be interesting or thoughtful
 platitude
 plutocracy,government by the wealthy
 precept
@@ -261,25 +261,25 @@ provident
 puissant
 punctilious
 pusillanimous
-quail
-qualm
+quail,feel or show apprehension
+qualm,an uneasy feeling of doubt, worry, or fear, esp. about one's own conduct. a momentary faint or sick feeling
 quiescent
-quorum
+quorum,the minimum number of members of an assembly or society that must be present at any of its meetings to make the proceedings of that meeting valid
 raconteur
 raiment
-rarefied
+rarefied,of lower pressure than usual / thin. distant from the lives and concerns of ordinary people
 rebus
-recalcitrant
-recant
+recalcitrant,having an obstinately uncooperative attitude toward authority or discipline
+recant,say that one no longer holds an opinion or believe (esp. one considered heretical)
 recondite
 redoubtable
 refractory
-refulgent
+refulgent,shining brightly
 regale
 remonstrate
 repine
-reprise
-reprobate
+reprise,a repeated passage in music. a repetition or further performance of something. (reprisal) an act of retaliation
+reprobate,an unprincipled person (often used humorously or affectionately)
 riposte
 rubric
 salacious
@@ -287,13 +287,13 @@ salubrious
 salutary
 saturnine
 satyr
-sedulous
+sedulous,showing dedication and diligence
 sinecure
 sodden
 solicitous
 solvent
 soporific
-sordid
+sordid,involving ignoble actions and motives / arousing moral distaste and contempt. dirty or squalid
 staccato
 stanch
 stentorian
@@ -307,12 +307,12 @@ succor
 supine
 suppliant
 supplicant
-syllogism
+syllogism,a form of reasoning, conclusion is drawn from two assumed premises (all dogs are animals, all animals have four legs, therefoore all dogs have four legs)
 sylvan
 toady
 torpor
 tortuous
-tractable
+tractable,(of person, animal) easy to control or influence. (of situation) easy to deal with
 travail
 travesty
 treatise
@@ -325,8 +325,8 @@ turgid
 tutelary
 untoward
 valedictory
-vaunt
-venal
+vaunt,boast about or praise (something), esp. excessively
+venal,showing or motivated by a susceptibility to bribery
 veracious
 vitiate
 vituperative
@@ -337,18 +337,18 @@ cloy
 pertinacious
 truculent
 atomism
-craven
-misanthrope
+craven,contemptibly lacking in courage; cowardly
+misanthrope,a person who dislikes humankind and avoids human society
 perfunctory
-moribund
-soporific
+moribund,(of person) at the point of death. (of a thing) in terminal decline, lacking vitality or vigor
+soporific,tending to induce drowsiness or sleep
 rococo
-curio
+curio,a rare, unusual, intriguing object
 autocrat
 exculpate
-plebiscite
+plebiscite,the direct vote of all members of an electorate on an important public question (ie, change of constitution)
 grandiloquent
-reticent
+reticent,not revealing one's thoughts or feelings readily
 intimation
 flounder
 anomie
@@ -362,3 +362,4 @@ totemistic
 panache
 semiotic
 caduceus
+apotheosis
