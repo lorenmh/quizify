@@ -57,7 +57,7 @@ cantankerous
 captious
 cardinal,a leading member of the catholic church. of the gretest importance / fundamental. (cardinality) the number of elements in a set or group
 carping,difficult to please
-castigation
+castigation,reprimand (someone) severely
 cataclysm,large scale and violent event in nature. (social) sudden violent upheaval
 categorical,unambiguously explicit and direct
 caucus,a meeting of members of a legislative body of a particular party to select candidates or decide policy, members thereof. a group of people with shared concerns within a political party or larger org.
@@ -167,7 +167,7 @@ impassive,not feeling or showing emotion
 impecunious,having little or no money
 impinge
 impute,represent as being done, caused, or possessed by someone ('the crimes imputed to Richard...')
-inchoate
+inchoate,just begun and so not fully formed or developed; rudimentary
 incursion,an invasion or attack, esp. a sudden or brief one
 indigence,a state of extreme poverty
 ineluctable,unable to be resisted or avoided; inescapable
@@ -250,7 +250,7 @@ precept
 precipitate
 precursor
 preempt
-prehensile
+prehensile,capable of grasping
 preternatural,beyond what is normal or natural
 prevaricate
 probity
@@ -302,7 +302,7 @@ stolid
 stricture
 stultify
 stygian
-subsume
+subsume,include or absorb (something) in something else
 succor
 supine
 suppliant
@@ -315,7 +315,7 @@ tortuous
 tractable,(of person, animal) easy to control or influence. (of situation) easy to deal with
 travail
 travesty
-treatise
+treatise,a written work dealing formally and systematically with a subject
 tremulous
 trepidation
 truculence
