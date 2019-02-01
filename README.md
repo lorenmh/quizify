@@ -7,7 +7,7 @@
 ## Outline
 * For each word in input, insert into sqlite (optional import?)
 * For quizing, select a word at random
-* If word doesn't have a definition, use API call to get definition, etymology, roots, synonyms
+* If word doesn't have a definition, use API call to get definition, etymology, roots, synonyms, pronunciation
 * Ask for user definition, get text input for synonyms, definition, or select option for "I know this" "I don't know this"
    * Example: "histrionics" -> user inputs "theatrical display" -> outputs "Definition: XXX (etymology, etc). You said: "theatrical display", correctness 1-5" -> user inputs 5, or, another option to select that this word is known and no longer needs to be quizzed
 * store all of this in DB
