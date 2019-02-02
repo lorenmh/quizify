@@ -13,3 +13,6 @@ run:
 .PHONY: clean
 clean:
 	rm quiz.db
+
+.PHONY: dev
+dev: clean run

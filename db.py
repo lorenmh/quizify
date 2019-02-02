@@ -12,7 +12,7 @@ class Base(Model):
 
 
 class Word(Base):
-    name = CharField()
+    name = CharField(max_length=255, unique=True)
     definition = TextField(null=True)
 
 
