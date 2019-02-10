@@ -1,3 +1,6 @@
+from gevent import monkey; monkey.patch_all()
+from gevent.pool import Pool
+
 from db import db, Word, Quiz
 from glob import glob
 from peewee import chunked, fn, Expression
@@ -12,10 +15,11 @@ RANDOM_FACTOR = 100
 WRONG_FACTOR = 10
 MOST_RECENT = 4
 
+POOL_SZ = 16
+
 
 def mod(lhs, rhs):
     return Expression(lhs, '%', rhs)
-
 
 # init
 for fname in glob('./words/*.txt'):
@@ -24,6 +28,25 @@ for fname in glob('./words/*.txt'):
             Word.insert_many(chunk, fields=[Word.name]) \
                 .on_conflict_ignore() \
                 .execute()
+
+
+def update_definition(word):
+    print('fetching "{}"'.format(word.name))
+    try:
+        d = parser.fetch(word.name, 'english')[0]
+        definition_lines = d['definitions'][0]['text']
+        definition = '\n\t'.join(definition_lines)
+        etymology = d.get('etymology')
+        word.definition = definition
+        word.etymology = etymology
+    except:
+        pass
+    return word
+
+pool = Pool(POOL_SZ)
+undefined_words = Word.select().where(Word.definition == None)
+updated_words = pool.map(update_definition, undefined_words)
+[word.save() for word in updated_words]
 
 def get_random():
     random_weight = Word.weight * fn.Abs(mod(fn.Random(), RANDOM_FACTOR))

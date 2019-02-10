@@ -16,7 +16,7 @@ run:
 
 .PHONY: clean
 clean:
-	rm quiz.db
+	rm quiz.db || true
 
 .PHONY: dev
 dev: clean run

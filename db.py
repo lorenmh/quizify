@@ -1,3 +1,4 @@
+from gevent import monkey; monkey.patch_all()
 from peewee import SqliteDatabase, Model, ForeignKeyField, IntegerField, \
                    CharField, TextField, DateTimeField, BooleanField
 
@@ -14,6 +15,7 @@ class Base(Model):
 class Word(Base):
     name = CharField(max_length=255, unique=True)
     definition = TextField(null=True)
+    etymology = TextField(null=True)
     weight = IntegerField(default=1)
 
 
